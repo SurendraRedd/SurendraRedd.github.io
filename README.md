@@ -1,2 +1,2 @@
 # SurendraRedd.github.io
-This page contains the details of my home page
+This page contains the details of the My profile.
