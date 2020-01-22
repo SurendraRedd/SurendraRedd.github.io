@@ -1,3 +1,3 @@
 # SurendraRedd.github.io
-This page contains the details about my experience in aerospace and automotive domain projects which i have worked from the past 12 years.
-It also contains the different projects, roles and responsibilities which i have worked.
+Profile about IT Experience in Aerospace and Automotive Domains. It contains about the roles and responsibilites which i have involved in each project as well as the acheivements in work.
+
